@@ -7,4 +7,5 @@ assignees: teelolws
 
 ---
 
-[Upload your Saved Variables here] NOTE: this is not yet ready, and is coming in a future update to the addon. For now, just tell me the name of the mission and I'll do what I can.
+[Upload your Saved Variables here]
+You can find your Saved Variables in your WoW folder, under WTF \ Account \ YOUR ACCOUNT \ YOUR REALM \ YOUR CHARACTER \ SavedVariables \ TLDRMissions.lua
