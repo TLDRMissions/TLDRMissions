@@ -8,5 +8,3 @@ assignees: teelolws
 ---
 
 [Copy/paste the Lua error here]
-
-[Upload your Saved Variables here] NOTE: this is coming in a future update to the addon. For now, ignore this.
