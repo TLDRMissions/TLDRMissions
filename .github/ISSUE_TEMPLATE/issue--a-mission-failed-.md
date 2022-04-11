@@ -7,5 +7,4 @@ assignees: teelolws
 
 ---
 
-[Upload your Saved Variables here]
-You can find your Saved Variables in your WoW folder, under WTF \ Account \ YOUR ACCOUNT \ YOUR REALM \ YOUR CHARACTER \ SavedVariables \ TLDRMissions.lua
+**I am currently working on fixes for this addon. Please check back after I have published the update if you still get failed missions!**
