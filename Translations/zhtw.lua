@@ -1,4 +1,4 @@
-local L = LibStub("AceLocale-3.0"):NewLocale("TLDRMissions", "zhCN")
+local L = LibStub("AceLocale-3.0"):NewLocale("TLDRMissions", "zhTW")
 
 L["Advanced"] = "Advanced >>"
 L["CompleteMissionButtonText"] = "Finish Completed Missions"
