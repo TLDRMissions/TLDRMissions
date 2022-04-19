@@ -39,3 +39,5 @@ L["RemainingMissionsAboveRestrictionsError"] = "沒找到符合您設定的任�
 L["NotYet"] = "還沒有!"
 L["CompleteMissionsButtonText"] = "完成已完成任務"
 L["DiscrepancyError"] = "TLDRMissions: 喔不，一個派發的任務失敗了！請登出，然後寄給作者你的記錄檔來查證。"
+L["AnimaCostLimit"] = true
+L["AnimaCostLimitError"] = true
