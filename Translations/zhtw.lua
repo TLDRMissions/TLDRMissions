@@ -1,4 +1,5 @@
 local L = LibStub("AceLocale-3.0"):NewLocale("TLDRMissions", "zhTW")
+if not L then return end
 
 L["Advanced"] = "進階 >>"
 L["CompleteMissionButtonText"] = "完成已完成任務"
@@ -41,5 +42,5 @@ L["CompleteMissionsButtonText"] = "完成已完成任務"
 L["DiscrepancyError"] = "TLDRMissions: 喔不，一個派發的任務失敗了！請登出，然後寄給作者你的記錄檔來查證。"
 L["AnimaCostLimit"] = "別派發靈魄花費量超過以下的任務:"
 L["AnimaCostLimitError"] = "沒找到符合靈魄花費限制的任務"
-L["RunecarverRewards"] = ""
-L["CampaignProgress"] = ""
+L["RunecarverRewards"] = "橘裝製作貨幣"
+L["CampaignProgress"] = "戰役任務進度"
