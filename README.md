@@ -5,6 +5,6 @@ Releases for this addon are available on CurseForge: https://www.curseforge.com/
 
 Common questions:
 
-Q: The number of simulations is really high. Like over 30,000. Is it broken?
+Q: The number of simulations is really high. Is it broken?
 
-A: Nah, its probably trying to solve something like a Level 60 Elite mission, but you don't have multiple Level 60 followers, so its trying every possible combination of followers and troops because it can't find something that works. You can either let it keep running, and maybe it will find a setup that works, or cancel it and give up on that level 60 elite mission. Another common reason it can't find a solution is your troops are low level, and can't carry the team. You should look up which followers need to get XP items, so your troops can level with them.
+A: Some missions involve "randomness", such as spells that have a random target. When this happens, the addon could take a long time to find a way to guarantee success. If you would prefer the addon finds solutions more quickly, change some of the advanced settings. Perhaps lower the level restriction, so low level minions aren't tested on high level missions.
