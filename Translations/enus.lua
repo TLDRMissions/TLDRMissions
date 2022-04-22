@@ -39,3 +39,7 @@ L["RemainingMissionsAboveRestrictionsError"] = "No more missions matching your s
 L["NotYet"] = "Not yet!"
 L["CompleteMissionsButtonText"] = "Finish Completed Missions"
 L["DiscrepancyError"] = "TLDRMissions: Oh no, a mission I sent out failed! Please logout, then send my Saved Variables to the author to investigate."
+L["AnimaCostLimit"] = "Don't use missions that cost more than this much Anima:"
+L["AnimaCostLimitError"] = "No missions within your anima cost limit were found"
+L["RunecarverRewards"] = "Runecarver Crafting Currencies"
+L["CampaignProgress"] = "Campaign Mission Progress"
