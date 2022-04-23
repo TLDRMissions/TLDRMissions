@@ -12,3 +12,7 @@ A: Some missions involve "randomness", such as spells that have a random target.
 Q: The simulator froze / the simulator counter isn't increasing?
 
 A: The addon probably threw an error, and to protect the game from locking up, the simulator disables itsself. If you didn't see the error, you probably have errors disabled, or you're using another addon to hide the errors. I'll need to see the error to be able to investigate what happened.
+
+Translations:
+
+If you'd like to provide translations, create an issue, tell me what locale you are in (eg: enUS/zhTW/frFR), and I'll create the template files for your locale and walk you through filling in the translations.
