@@ -44,3 +44,5 @@ L["AnimaCostLimit"] = "別派發靈魄花費量超過以下的任務:"
 L["AnimaCostLimitError"] = "沒找到符合靈魄花費限制的任務"
 L["RunecarverRewards"] = "橘裝製作貨幣"
 L["CampaignProgress"] = "戰役任務進度"
+L["SimsPerFrameLabel"] = true
+L["SimsPerFrameTooltip"] = true
