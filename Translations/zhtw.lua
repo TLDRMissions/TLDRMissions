@@ -46,4 +46,4 @@ L["RunecarverRewards"] = "橘裝製作貨幣"
 L["CampaignProgress"] = "戰役任務進度"
 L["SimsPerFrameLabel"] = "每個框架模擬數"
 L["SimsPerFrameTooltip"] = "|cFFFF0000警告：增加的風險請自負|r每個框架運行多少次模擬。增加這將降低您的FPS。如果您開始出現逾時錯誤或遊戲崩潰，請降低此值！"
-L["AutoShowLabel"] = true
+L["AutoShowLabel"] = "自動顯示標籤"
