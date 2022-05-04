@@ -1,6 +1,6 @@
 local L = LibStub("AceLocale-3.0"):NewLocale("TLDRMissions", "enUS", true)
+if not L then return end
 
-L["Advanced"] = "Advanced >>"
 L["CompleteMissionButtonText"] = "Finish Completed Missions"
 L["FollowerXPItems"] = "Follower XP Items"
 L["PetCharms"] = "Pet Charms"
@@ -39,12 +39,15 @@ L["RemainingMissionsAboveRestrictionsError"] = "No more missions matching your s
 L["NotYet"] = "Not yet!"
 L["CompleteMissionsButtonText"] = "Finish Completed Missions"
 L["DiscrepancyError"] = "TLDRMissions: Oh no, a mission I sent out failed! Please logout, then send my Saved Variables to the author to investigate."
-L["AnimaCostLimit"] = "Don't use missions that cost more than this much Anima:"
+L["AnimaCostLimit"] = "Anima price limit:"
 L["AnimaCostLimitError"] = "No missions within your anima cost limit were found"
 L["RunecarverRewards"] = "Runecarver Crafting Currencies"
 L["CampaignProgress"] = "Campaign Mission Progress"
 L["SimsPerFrameLabel"] = "Simulations Per Frame"
 L["SimsPerFrameTooltip"] = "|cFFFF0000WARNING: Increase this at your own risk|r\nHow many simulations to run per frame. Increasing this will decrease your FPS. If you start getting timeout errors or your game crashes, lower this!"
+L["AutoShowLabel"] = "Always show this UI"
 L["LowTimeWarning"] = "Mission expires in %d min, %d sec"
-L["AllowProcessing"] = "Process even when away from Mission Table"
+L["AllowProcessing"] = "Process while away from Mission Table"
 L["AllowProcessingTooltip"] = "The addon will continue simulating when you walk away from the Mission Table, until it runs out of simulations or you come back and stop it."
+L["AutoStart"] = "Immediately start missions once calculated"
+L["Profiles"] = true
