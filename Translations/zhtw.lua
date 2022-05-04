@@ -1,7 +1,6 @@
 local L = LibStub("AceLocale-3.0"):NewLocale("TLDRMissions", "zhTW")
 if not L then return end
 
-L["Advanced"] = "進階 >>"
 L["CompleteMissionButtonText"] = "完成已完成任務"
 L["FollowerXPItems"] = "追隨者經驗物品"
 L["PetCharms"] = "寵物幣"
@@ -50,3 +49,5 @@ L["AutoShowLabel"] = "自動顯示標籤"
 L["LowTimeWarning"] = "任務逾期於 %d分, %d秒後"
 L["AllowProcessing"] = "當離開任務桌時繼續處理"
 L["AllowProcessingTooltip"] = "當您離開任務桌子時，插件將繼續模擬，直到它用盡模擬，或是等您返回並停止它。"
+L["AutoStart"] = true
+L["Profiles"] = true
