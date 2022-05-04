@@ -1,15 +1,4 @@
-## Updates are temporarily on hiatus
-
-*Since not long after I first uploaded this addon, I started receiving abuse from various players. Some messages and mail in-game, some e-mails, and some across various forms of social media. Most recently, a player managed to find my home phone number to make a death threat to my family member who answered the phone. No matter what you think of me as a player, these behaviours are not acceptable, and do not give you a moral high ground.
-
-*I will be taking a break from updating this addon for a while. Perhaps a couple of days. Maybe a week. Maybe longer. Until the abuse and threats cool down. 9.2-018 was just uploaded on 2/May/2022 containing fixes for the issues reported over the last day. The issues page is now locked.
-
---
-
-Original README.md begins below:
-
---
-
+# TLDRMissions
 Issue tracker for TLDRMissions addon for World of Warcraft
 
 Releases for this addon are available on CurseForge: https://www.curseforge.com/wow/addons/tldr-missions/files
