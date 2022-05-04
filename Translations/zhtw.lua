@@ -51,5 +51,5 @@ L["AllowProcessing"] = "當離開任務桌時繼續處理"
 L["AllowProcessingTooltip"] = "當您離開任務桌子時，插件將繼續模擬，直到它用盡模擬，或是等您返回並停止它。"
 L["AutoStart"] = "一旦計算後立即開始任務"
 L["Profiles"] = "設定檔"
-L["RestoreProfile"] = true
-L["DeleteProfile"] = true
+L["RestoreProfile"] = "恢復設定檔"
+L["DeleteProfile"] = "刪除設定檔"
