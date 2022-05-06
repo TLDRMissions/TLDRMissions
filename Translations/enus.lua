@@ -53,3 +53,4 @@ L["AutoStart"] = "Immediately start missions once calculated"
 L["Profiles"] = true
 L["RestoreProfile"] = "Restore Profile"
 L["DeleteProfile"] = "Delete Profile"
+L["SaveProfile"] = "Save Profile"
