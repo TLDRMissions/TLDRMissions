@@ -23,7 +23,7 @@ If you'd like to provide translations, create an issue, tell me what locale you 
 
 ## Addon Events for Weakauras:
 
-If you want to hear a sound or flash the taskbar or whatever when the addon finishes calculations, you can set something up with Weakauras, and listen for one of these custom events that TLDRMissions will sent through AceEvent and directly to Weakauras if you have it installed:
+If you want to hear a sound or flash the taskbar or whatever when the addon finishes calculations, you can set something up with Weakauras, and listen for one of these custom events that TLDRMissions will send through AceEvent and directly to Weakauras if you have it installed:
 
 - TLDRMISSIONS_SENT_SUCCESS (fired when all missions have been sent successfully)
 - TLDRMISSIONS_NOT_ENOUGH_ANIMA (fired if the addon tried to send a mission but you didn't have enough Anima)
