@@ -3,7 +3,7 @@ Issue tracker for TLDRMissions addon for World of Warcraft
 
 Releases for this addon are available on CurseForge: https://www.curseforge.com/wow/addons/tldr-missions/files
 
-Common questions:
+## Common questions:
 
 Q: The number of simulations is really high. Is it broken?
 
@@ -17,11 +17,11 @@ Q: Sending missions is slow?!?
 
 A: Due to problems on Blizzards end, there were issues with the wrong followers being sent on a mission, to combat this, I had to add a small delay to the Start Mission button where it double-checks after the delay to confirm the correct followers are still assigned before sending them. Better the small delay than the mission failing due to wrong followers!
 
-Translations:
+## Translations:
 
 If you'd like to provide translations, create an issue, tell me what locale you are in (eg: enUS/zhTW/frFR), and I'll create the template files for your locale and walk you through filling in the translations.
 
-Addon Events for Weakauras:
+## Addon Events for Weakauras:
 
 If you want to hear a sound or flash the taskbar or whatever when the addon finishes calculations, you can set something up with Weakauras, and listen for one of these custom events that TLDRMissions will sent through AceEvent and directly to Weakauras if you have it installed:
 
@@ -29,3 +29,7 @@ If you want to hear a sound or flash the taskbar or whatever when the addon fini
 - TLDRMISSIONS_NOT_ENOUGH_ANIMA (fired if the addon tried to send a mission but you didn't have enough Anima)
 - TLDRMISSIONS_SENT_FAILURE (fired when the last possible mission failed, meaning you have followers left over not sent on any missions)
 - TLDRMISSIONS_COMPLETE_MISSIONS_FINISHED (fired after you use the Finish Completed Missions button, and the addon has finished cycling through all the missions and collected their rewards)
+
+Here is a simple WA I quickly whipped up that plays a Kaching sound when all the missions are successfully sent:
+
+    !WA:2!1r1tVnoru8gLdizHw6Mdb2chSar1IqQslROWfKACwhTbL0eSDPfPi5DSNNThQZmJMzCBZEcfHeCL(riN5u(eG6boBvXNGLVb7NaEJDaHqSZf)EJF)93V3B6mQ3YE0E0F(JvIktjJdQzNfnz8P(bPIsH6R7Ih5NszAzjzveCJjotOwsmXYydBjetxXjlzPXMcfOleL0vQvZYY0G55NCYF(l7HNTeEAHqnxW4MKH(Ng5hiDFZrSvRJC)0kTrS0AXzskXabWva38ksfElXWspNrnfEdqvfj1WeC9XbAdrzomqlQ4u5xnMBavgjfwmGsX)V4CGC5GkfrVyU4Aq1iofOmYIqRh6fxssly88Je55RPI4M48IKmgNPloS(DQ3V(HfEOMXzTrXYZbL(bhQ2j(7EMvsiPTUFLUkPPGdRYYy3SnE4GWO4WObbr1o3nSGyCNcAnjh(hlNRa0YGW5(tMSHcjOJryavp3FY8rNnXRcZBIf1avRdA5JIM8SGPJddhp70W4qeCJdpB4q)WWaKxaTZ22Qj2wz1oR1sOSCmv7u)UYdYQ4n42J)exfyQuCxJQcCbo9V9QGrHalRqVTIVRlDKp0c3xbrT6tfu4x3t(()VmARq9JFnZsfCs53IigMsy91cf9CfrU(8DcEzcUrU)if7LUFtfHQigIBu0geDcGCl9Eq)6(3JQjK0lZvwQXRuqOJsmKsen6hSSQ0WC8WMmTF9N7eKws0ARKNM9sWkS2MKqu5r3RliuX1x0oS2DJQjhw82ZGTWMubNYAMQCKF0BEAvQGuMTJ6ElHZSZLc(X1py0DardHgfWZnfVvDFpo203tXboRfn0Hsd2KOxBn1M46bEljm(O6tqhQhu7vpS(z43E)3Bu3SBf73O)0b)aUIP(EKVyzR8M4pkAJrKEvlm)EDEXfFiJExZuctBVsVRX)U2q8b7TntHtkyPI4D3x3URoYELTKschg47FAcwOzSCNpRIr3EdWRwo54NKs)Y7XLr08zYwGA7)cN65UTnrdBEhPtNoD3Gt3aTzT9hF7TmElsIE6CRgkZAFGWBwu0SP90jp9OV4ON80Ex9hx8xd
