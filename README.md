@@ -20,3 +20,12 @@ A: Due to problems on Blizzards end, there were issues with the wrong followers 
 Translations:
 
 If you'd like to provide translations, create an issue, tell me what locale you are in (eg: enUS/zhTW/frFR), and I'll create the template files for your locale and walk you through filling in the translations.
+
+Addon Events for Weakauras:
+
+If you want to hear a sound or flash the taskbar or whatever when the addon finishes calculations, you can set something up with Weakauras, and listen for one of these custom events that TLDRMissions will sent through AceEvent and directly to Weakauras if you have it installed:
+
+- TLDRMISSIONS_SENT_SUCCESS (fired when all missions have been sent successfully)
+- TLDRMISSIONS_NOT_ENOUGH_ANIMA (fired if the addon tried to send a mission but you didn't have enough Anima)
+- TLDRMISSIONS_SENT_FAILURE (fired when the last possible mission failed, meaning you have followers left over not sent on any missions)
+- TLDRMISSIONS_COMPLETE_MISSIONS_FINISHED (fired after you use the Finish Completed Missions button, and the addon has finished cycling through all the missions and collected their rewards)
