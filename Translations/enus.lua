@@ -54,3 +54,4 @@ L["Profiles"] = true
 L["RestoreProfile"] = "Restore Profile"
 L["DeleteProfile"] = "Delete Profile"
 L["SaveProfile"] = "Save Profile"
+L["MaxSimulationsLabel"] = "maximum simulations per mission"
