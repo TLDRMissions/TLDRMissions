@@ -36,4 +36,4 @@ Here is a simple WA I quickly whipped up that plays a Kaching sound when all the
     
 ## Help improve the accuracy of the addon?
 
-If you run this addon across multiple character, and would like to help me collect combat logs to improve the accuracy of the simulation engine, open a "Discrepancy Testing" issue to let me know. You can either do the testing work here on Github, or over Discord. I'll get back to you with instructions on what to do.
+If you run this addon across multiple characters, and would like to help me collect combat logs to improve the accuracy of the simulation engine, open a "Discrepancy Testing - Volunteering" issue to let me know. You can either do the testing work here on Github, or over Discord. I'll get back to you with instructions on what to do.
