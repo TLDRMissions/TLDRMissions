@@ -1,5 +1,5 @@
 ---
-name: Discrepancy Testing: Joining the Team
+name: Discrepancy Testing - Joining the Team
 about: Use this issue if you'd like to join in on helping improve the accuracy of the simulation engine
 title: ''
 labels: ''
