@@ -1,6 +1,6 @@
-name: 'Discrepancy Testing - Volunteering'
-description: 'Use this issue if you'd like to join in on helping improve the accuracy of the simulation engine'
-title: '[Discrepancy EOI]'
+name: "Discrepancy Testing - Volunteering"
+description: "Use this issue if you'd like to join in on helping improve the accuracy of the simulation engine"
+title: "[Discrepancy EOI]"
 assignees: 'teelolws'
 body:
   - type: markdown
