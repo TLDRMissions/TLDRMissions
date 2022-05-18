@@ -1,0 +1,8 @@
+name: 'Discrepancy Report'
+description: 'Use this if you have Discrepancy Testing turned on and have a discrepancy to report'
+title: '[Discrepancy]'
+body:
+  - type: input
+    label: 'Mission ID'
+  - type: textarea
+    label: 'Upload the saved variable file here'
