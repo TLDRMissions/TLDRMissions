@@ -1,0 +1,11 @@
+name: 'Issue: A mission failed!'
+description: 'Use this if a mission sent by this addon failed'
+title: "[BUG] A mission failed!"
+assignees: 'teelolws'
+body:
+- type: textarea
+  attributes:
+    label: Upload your Saved Variables here
+    description: |
+      You can find your Saved Variables in your WoW folder, under WTF \ Account \ YOUR ACCOUNT \ YOUR REALM \ YOUR CHARACTER \ SavedVariables \ TLDRMissions.lua
+      Github won't allow you to upload a .lua file directly, but you can either .zip it up or just copy/paste the entire contents of the file here.
