@@ -1,0 +1,8 @@
+name: Issue: Lua error
+description: Use this if you get an Lua error
+title: [BUG] Lua error
+assignees: teelolws
+body:
+- type: textarea
+  attributes:
+    label: Copy/paste the Lua error here
