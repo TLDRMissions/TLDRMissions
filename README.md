@@ -7,7 +7,7 @@ Releases for this addon are available on CurseForge: https://www.curseforge.com/
 
 Q: The number of simulations is really high. Is it broken?
 
-A: Some missions involve "randomness", such as spells that have a random target. When this happens, the addon could take a long time to find a way to guarantee success. If you would prefer the addon finds solutions more quickly, change some of the advanced settings. Perhaps lower the level restriction, so low level minions aren't tested on high level missions. Or perhaps change the option to always fill with troops.
+A: Its not broken, its just a really hard mission that takes a long time to find a solution for. I'm regularly making small improvements to bring down the simulation time; even going as far as to eimulate the most complicated missions in advance before the addon is published, and store the results with the addon.
 
 Q: The simulator froze / the simulator counter isn't increasing?
 
