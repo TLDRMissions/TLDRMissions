@@ -66,3 +66,5 @@ L["FollowerZeroHPError"] = "You have a follower with 0HP! Wait about 10 seconds 
 L["MissionCounter"] = "Mission (%d/%d): %s"
 L["InstructionsLabel"] = "Choose the rewards you want, by how important they are:"
 L["FollowupInstructionsLabel"] = "[Left Click: Select -- Right Click: Options]"
+L["CampaignDropDownTooltip"] = "Warning: Can be unreliable if you have changed covenants."
+L["AnythingForXPLabel"] = "Then, anything else."
