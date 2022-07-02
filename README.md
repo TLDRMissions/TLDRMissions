@@ -35,6 +35,6 @@ Here is a simple WA I quickly whipped up that plays a Kaching sound when some or
 
     !WA:2!1rv3Unoru4KnxSswRw6gKcqbjSarfiqD3wwvHecPno4OniNMGTlDrkiVJ9CS9qTNz0mJBB2Rqrib3sFeY1CvEcq9jWQcXdWYBW(eWm2zriGn3KZpZ5VVVZXDh3VSpUp(N)abRsvqOGy2jHEto21pHvWeFvp9VnyIKxGwgcxQ6BFJmhHzx8TZstLG6D6SbrtYzI5mcvfpY94qxFU9)iIOuMOePI4rksjSvRlFNKkPIvAEXjCmsb(W5av9CuL2ksrsoLGv5od1QcuIIWOYJ8LkKqTNVKvrX8VycvbIuucSyigR9V4uaD2WkbsUyo7cq0iofWe0IateYfNHsYj0S9zzzRWSOM88uhcLOSIt1)jZ3R(1Q3P(E5RucswgiK3DpXwX)WrTKdXT99ZLvXnnCqvAk5YnrJggegfeo0pCfwxxtd3)GARRhLJu2tbPeLb)DqZfGoi)G5UEEBAtyuobd(gicVsYHIIjyPv9BW3nTI2m(F4hzlavLGARevGnqXT5sYFyO3x6pDsqWKzhhefOPGO56(yYqVpX()6k4KrJCdcEzznZuTLpfvcslNknueByoqSgdX6zlu7x8yxV5JpX7Qk6wSWIFpdPCoe2QpLHHFTd)T)F59wH639fedHrrfFJgx1t0zxHOKYgO6O67oUEGdLrHRbKecucGMPYV9nVemBAuHesyAICL5nMoR((oLicvhB99RFWTRpO(W6pvl(6)BloPmQIVZyb5z2FDfcRtkYomCTMr8HmZ21UdQhCJwngLCwMWSz4uWq4XosYZGb(LvfkILJMAsgu)5w(jfiP0ifRqfAAWiUYuKa9ZFRThjpP9iP3ArtnmDSJsJnR1SpGB2W)X7WF)x91cxajedw1J)XV6xHxQPpssKkxaYCwbE5vsOiT9K0zwy4SPIVxt3K0LoEUJdxRyjN3YbVz3N(DVhbFDZEcrAmjpSIG3CjqRk9o6Ge8NTjvO3o0uIgZ69I2Z9XgtM5joyKVR7XILTJ6JF0J(ZFPtNoDJ1evkjZsC5wh)g(N29h605w3OVW1jygV5M2AtlsnQ5RnD72T3Addt26KqBNuTM1Qlyc8PceF1PBf6l9F4(py)d7F(V)K)6p
     
-## Help improve the accuracy of the addon?
+## Farming Torghast Followers?
 
-If you run this addon across multiple characters, and would like to help me collect combat logs to improve the accuracy of the simulation engine, open a "Discrepancy Testing - Volunteering" issue to let me know. You can either do the testing work here on Github, or over Discord. I'll get back to you with instructions on what to do.
+TLDR Missions has a small module bundled in to help you. Check out the guide here: https://github.com/TLDRMissions/TLDRMissions/wiki/Torghast-Follower-Farm
