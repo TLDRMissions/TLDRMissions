@@ -64,3 +64,7 @@ L["SacrificeLabel"] = "Ensuite, envoyez les Aventuriers à l’échec pour l’X
 L["SacrificeMissionReport"] = "Sacrifier les Aventuriers pour %d XP"
 L["FollowerZeroHPError"] = "Vous avez un Aventuriers avec 0 PV ! Attendez environ 10 secondes pour qu’il passe à 1 PV puis réessayez."
 L["MissionCounter"] = "Mission (%d/%d): %s"
+L["InstructionsLabel"] = "Choisissez la récompense désirée, par importance :"
+L["FollowupInstructionsLabel"] = "[Clique gauche: Selectionner -- Clique droit: Options]"
+L["CampaignDropDownTooltip"] = "Attention : Ne peut être fiable si vous avez changé de congrégation."
+L["AnythingForXPLabel"] = "Enfin, tout le reste pour l'XP."
