@@ -1,7 +1,7 @@
 local addonName = ...
 local addon = _G[addonName]
 local LibStub = addon.LibStub
-local L = LibStub("AceLocale-3.0"):NewLocale("TLDRMissions", "frFR", true)
+local L = LibStub("AceLocale-3.0"):NewLocale("TLDRMissions", "frFR")
 if not L then return end
 
 L["CompleteMissionButtonText"] = "Compléter les missions terminées"
