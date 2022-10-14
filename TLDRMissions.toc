@@ -1,0 +1,60 @@
+## Interface: 90207
+## Title: TL;DR Missions
+## Version: 9.2-137
+## Notes: Automates sending out Covenant Missions
+## Author: Teelo
+## Dependencies: Blizzard_GarrisonUI
+## SavedVariablesPerCharacter: TLDRMissionsLogging
+## SavedVariables: TLDRMissionsProfiles, TLDRMissionsCache
+## X-Curse-Project-ID: 602487
+
+main.lua
+
+libs\LibStub-Isolated\LibStub.lua
+
+libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+
+libs\AceAddon-3.0\AceAddon-3.0.xml
+libs\AceDB-3.0\AceDB-3.0.xml
+libs\AceDBOptions-3.0\AceDBOptions-3.0.xml
+libs\AceConsole-3.0\AceConsole-3.0.xml
+libs\AceGUI-3.0\AceGUI-3.0.xml
+libs\AceConfig-3.0\AceConfig-3.0.xml
+
+libs\AceLocale-3.0\AceLocale-3.0.xml
+locales\dede.lua
+locales\enus.lua
+locales\frfr.lua
+locales\ruru.lua
+locales\zhtw.lua
+locales\zhcn.lua
+locales\kokr.lua
+
+libs\AceEvent-3.0\AceEvent-3.0.xml
+
+libs\LibStub\LibStub.lua
+libs\LibUIDropDownMenu\LibUIDropDownMenu.xml
+
+enums.lua
+spellsdb.lua
+targetting.lua
+matherrors.lua
+simulation.lua
+combinations.lua
+gui.lua
+guihandlers.lua
+testing.lua
+workhandler.lua
+missions.lua
+events.lua
+logging.lua
+caching.lua
+profiles.lua
+bindings.lua
+
+torghast-farm.lua
+
+ResultCache\index.xml
+
+followerlist.xml
+followerlist.lua
