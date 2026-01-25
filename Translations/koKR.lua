@@ -3,7 +3,7 @@ local LibStub = addon.LibStub
 local L = LibStub("AceLocale-3.0"):NewLocale("TLDRMissions", "koKR")
 if not L then return end
 
-L["CompleteMissionButtonText"] = "완료된 임무 종료"
+L["CompleteMissionsButtonText"] = "완료된 임무 종료"
 L["FollowerXPItems"] = "동료 경험치 아이템"
 L["PetCharms"] = "애완동물 부적"
 L["AugmentRunes"] = "증강의 룬"
@@ -39,7 +39,6 @@ L["MissionsSentPartial"] = "%d 수행 임무; %d 건너뜀; %d 실패; %d 가능
 L["MissionSkipped"] = "임무를 건너뛰었습니다."
 L["RemainingMissionsAboveRestrictionsError"] = "설정 사항과 일치하는 임무가 없습니다."
 L["NotYet"] = "아직 아님!"
-L["CompleteMissionsButtonText"] = "완료된 임무 종료"
 L["DiscrepancyError"] = "TLDRMissions: 아니, 내가 보낸 임무가 실패하다니! 로그아웃한 다음 저장한 변수를 작성자에게 보내 조사하십시오."
 L["AnimaCostLimit"] = "령 가격 제한:"
 L["AnimaCostLimitError"] = "령 비용 한도 내에서 임무을 찾을 수 없습니다."
