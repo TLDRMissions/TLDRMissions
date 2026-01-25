@@ -3,7 +3,7 @@ local LibStub = addon.LibStub
 local L = LibStub("AceLocale-3.0"):NewLocale("TLDRMissions", "zhTW")
 if not L then return end
 
-L["CompleteMissionButtonText"] = "完成已完成任務"
+L["CompleteMissionsButtonText"] = "完成已完成任務"
 L["FollowerXPItems"] = "追隨者經驗物品"
 L["PetCharms"] = "寵物幣"
 L["AugmentRunes"] = "強化符文"
@@ -39,7 +39,6 @@ L["MissionsSentPartial"] = "已派發%d任務; 跳過%d任務; %d任務失敗; �
 L["MissionSkipped"] = "任務已被跳過"
 L["RemainingMissionsAboveRestrictionsError"] = "沒找到符合您設定的任務"
 L["NotYet"] = "還沒有!"
-L["CompleteMissionsButtonText"] = "完成已完成任務"
 L["DiscrepancyError"] = "TLDRMissions: 喔不，一個派發的任務失敗了！請登出，然後寄給作者你的記錄檔來查證。"
 L["AnimaCostLimit"] = "靈魄花費限制:"
 L["AnimaCostLimitError"] = "沒找到符合靈魄花費限制的任務"
