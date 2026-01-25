@@ -3,7 +3,7 @@ local LibStub = addon.LibStub
 local L = LibStub("AceLocale-3.0"):NewLocale("TLDRMissions", "frFR")
 if not L then return end
 
-L["CompleteMissionButtonText"] = "Terminer les missions complétées"
+L["CompleteMissionsButtonText"] = "Terminer les missions complétées"
 L["FollowerXPItems"] = "Objet d’XP d’Aventurier"
 L["PetCharms"] = "Charme pour mascotte poli"
 L["AugmentRunes"] = "Rune d’amélioration"
@@ -39,7 +39,6 @@ L["MissionsSentPartial"] = "%d missions envoyées; %d passées; %d échouées; %
 L["MissionSkipped"] = "La mission a été ignorée"
 L["RemainingMissionsAboveRestrictionsError"] = "Aucune autre mission correspondant à vos paramètres n’a été trouvée"
 L["NotYet"] = "Pas encore !"
-L["CompleteMissionsButtonText"] = "Compléter les missions terminées"
 L["DiscrepancyError"] = "TLDRMissions: Oh non, une mission que j’ai envoyée a échoué ! Veuillez vous déconnecter, puis envoyez mes variables sauvegardées à l’auteur pour qu’il enquête."
 L["AnimaCostLimit"] = "Limite du prix d’Anima :"
 L["AnimaCostLimitError"] = "Aucune mission dans votre limite de coût d’Anima n’a été trouvée."
