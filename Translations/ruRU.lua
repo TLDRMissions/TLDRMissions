@@ -3,7 +3,7 @@ local LibStub = addon.LibStub
 local L = LibStub("AceLocale-3.0"):NewLocale("TLDRMissions", "ruRU")
 if not L then return end
 
-L["CompleteMissionButtonText"] = "Завершить задания"
+L["CompleteMissionsButtonText"] = "Завершить задания"
 L["FollowerXPItems"] = "Предметы опыта соратников"
 L["PetCharms"] = "Обереги для питомцев"
 L["AugmentRunes"] = "Руны усиления"
@@ -39,7 +39,6 @@ L["MissionsSentPartial"] = "%d отправлено; %d пропущено; %d �
 L["MissionSkipped"] = "Задание пропущено"
 L["RemainingMissionsAboveRestrictionsError"] = "Больше нет заданий подходящих под Ваши настройки"
 L["NotYet"] = "Пока нельзя!"
-L["CompleteMissionsButtonText"] = "Завершить задания"
 L["DiscrepancyError"] = "TLDRMissions: О нет, задание, которое я отправил, провалилось! Пожалуйста, выйдите из игры и отправьте мой файл SavedVariables автору, чтобы он разобрался."
 L["AnimaCostLimit"] = "Ограничение цены анимы:"
 L["AnimaCostLimitError"] = "Нет заданий, подходящих под Ваше ограничение по Аниме"
