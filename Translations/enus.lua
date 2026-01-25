@@ -3,7 +3,6 @@ local LibStub = addon.LibStub
 local L = LibStub("AceLocale-3.0"):NewLocale("TLDRMissions", "enUS", true)
 if not L then return end
 
-L["CompleteMissionButtonText"] = "Finish Completed Missions"
 L["FollowerXPItems"] = "Follower XP Items"
 L["PetCharms"] = "Pet Charms"
 L["AugmentRunes"] = "Augment Runes"
@@ -81,3 +80,11 @@ L["HelpButtonTooltipNoQuest"] = "You have not collected your Anima quest yet!"
 L["HelpButtonTooltipQuestPendingTurnin"] = "Your Anima quest is waiting to be turned in!"
 L["HelpButtonTooltipQuestAlreadyFinished"] = "Your Anima quest was already turned in this week."
 L["SkipFullResources"] = "Skip Full Resources on Completion"
+L["AlertsDesc"] = "Setup sounds to play when calculations have finished"
+L["FileID"] = "File ID"
+L["AlertsFlashTaskbarDesc"] = "Also flash the task bar"
+L["MissionsSentPartialAlert"] = "Some missions sent"
+L["ZeroHPAlertsDesc"] = "Dead followers skipped"
+L["NotEnoughAnimaAlert"] = "Not enough Anima"
+L["MissionsSentNoneAlert"] = "No missions sent"
+L["CompleteMissionBlockedAlert"] = "Complete missions blocked\n(Anima Quest missing)"
