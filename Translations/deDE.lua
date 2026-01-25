@@ -3,7 +3,7 @@ local LibStub = addon.LibStub
 local L = LibStub("AceLocale-3.0"):NewLocale("TLDRMissions", "deDE")
 if not L then return end
 
-L["CompleteMissionButtonText"] = "Schließe fertige Abenteuer ab"
+L["CompleteMissionsButtonText"] = "Schließe fertige Abenteuer ab"
 L["FollowerXPItems"] = "Anhänger XP-Items"
 L["PetCharms"] = "Haustierglücksbringer"
 L["AugmentRunes"] = "Verstärkungsrunen"
@@ -39,7 +39,6 @@ L["MissionsSentPartial"] = "%d Abenteuer gestartet; %d übersprungen; %d fehlges
 L["MissionSkipped"] = "Abenteuer wurde übersprungen"
 L["RemainingMissionsAboveRestrictionsError"] = "Keine weiteren Abenteuer gefunden, welche zu deinen Einstellungen passen"
 L["NotYet"] = "Noch nicht!"
-L["CompleteMissionsButtonText"] = "Schließe fertige Abenteuer ab"
 L["DiscrepancyError"] = "TLDRMissions: Oh nein, ein Abenteuer konnte nicht erfolgreich abgeschlossen werden! Logge dich bitte aus und schicke dem Autor die SavedVariables, um nach einer Lösung zu suchen."
 L["AnimaCostLimit"] = "Animakostenlimit:"
 L["AnimaCostLimitError"] = "Keine Abenteuer innerhalb des Animakostenlimits gefunden"
