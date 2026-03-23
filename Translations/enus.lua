@@ -1,5 +1,4 @@
 local addonName, addon = ...
-local LibStub = addon.LibStub
 local L = LibStub("AceLocale-3.0"):NewLocale("TLDRMissions", "enUS", true)
 if not L then return end
 
@@ -8,6 +7,7 @@ L["PetCharms"] = "Pet Charms"
 L["AugmentRunes"] = "Augment Runes"
 L["ReputationTokens"] = "Reputation Tokens"
 L["BonusFollowerXP"] = "Bonus Follower XP"
+L["FollowerXP"] = "Follower XP"
 L["CraftingMaterials"] = "Crafting Materials"
 L["AnyMissionText"] = "Then, any remaining missions"
 L["HardestOrEasiest"] = "Hardest or Easiest missions first?"
