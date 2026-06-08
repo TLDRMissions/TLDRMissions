@@ -1,6 +1,6 @@
-
-
-
+local addonName, addon = ...
+local L = LibStub("AceLocale-3.0"):NewLocale("TLDRMissions", "frFR")
+if not L then return end
 
 L["FollowerXPItems"] = "Objets d’XP pour Aventurier"
 L["PetCharms"] = "Charmes pour mascottes polis"
